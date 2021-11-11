@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="title_activity_splash">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="app_bar_name">Safety Alert</string>
+
+    <string name="app_name">Safety Alert</string>
+    <string name="call_icon">call icon</string>
+    <string name="location_icon">location icon</string>
+    <string name="video_icon">video icon</string>
+    <string name="contact_icon">contact icon</string>
+    <string name="report_icon">report icon</string>
+    <string name="feedback_icon">feedback icon</string>
+    <string name="home_icon">home icon</string>
+    <string name="report_online">Report Online</string>
+    <string name="get_loc">Get location</string>
+    <string name="set_loc">Set Location</string>
+    <string name="add_contact">Add Contact ?</string>
+    <string name="enter_name">enter the contact number here</string>
+    <string name="rate">Are you loving this app? Rate it now !</string>
+
+</resources>
